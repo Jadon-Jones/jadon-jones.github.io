@@ -1,3 +1,10 @@
+
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 40px; width: 100%;">
 
   <div style="flex: 0 0 220px; text-align: center;">
