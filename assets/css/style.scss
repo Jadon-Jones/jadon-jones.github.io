@@ -1,0 +1,54 @@
+---
+---
+
+@import "minima";
+
+.profile-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+.profile-sidebar {
+  flex: 0 0 220px;
+  text-align: center;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.profile-sidebar h2 {
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.profile-sidebar p {
+  margin-bottom: 8px;
+}
+
+.profile-content {
+  flex: 1;
+  min-width: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .profile-layout {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-sidebar {
+    flex-basis: auto;
+    width: 100%;
+  }
+
+  .profile-content {
+    width: 100%;
+  }
+}
