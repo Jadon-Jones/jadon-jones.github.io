@@ -10,7 +10,7 @@
     <h2>Jadon Jones</h2>
     <p>Mathematics</p>
     <p><a href="mailto:jjadonjones35791113@gmail.com">Email</a></p>
-    <p><a href="www.linkedin.com/in/jadon-jones-mathematics">LinkeIn</a></p>
+    <p><a href="www.linkedin.com/in/jadon-jones-mathematics">LinkedIn</a></p>
     <p><a href="{{ '/assets/cv.pdf' | relative_url }}">Curriculum Vitae</a></p>
   </div>
 
