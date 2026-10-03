@@ -3,71 +3,49 @@ title: "Jadon Jones"
 description: "Personal academic website"
 theme: minima
 ---
-## Jadon Jones
+---
 
-**Mathematics | Geometry and Topology**
+title: "Jadon Jones"
+description: "Personal academic website"
+----------------------------------------
 
-[Email](mailto:jjadonjones35791113@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jadon-jones-mathematics) · [CV](assets/cv.pdf)
+<div class="profile-layout">
+  <div class="profile-sidebar">
+    <img src="/assets/images/profile.jpg" alt="Portrait of Jadon Jones" class="profile-photo">
 
+```
+<h2>Jadon Jones</h2>
+<p>Mathematics</p>
+<p>Geometry and Topology</p>
 
-## About Me
+<p><a href="mailto:your-email@example.com">Email</a></p>
+<p><a href="https://github.com/your-username">GitHub</a></p>
+<p><a href="/assets/cv.pdf">Curriculum Vitae</a></p>
+```
 
-I am a recent graduate of Berry College, where I earned a double major in Mathematics and Physics. My academic interests lie in geometry and topology, and I am particularly interested in exploring the connections between these fields and other areas of mathematics.
+  </div>
 
-During my undergraduate studies, I pursued a broad mathematical education, taking advantage of available coursework while independently studying topics beyond the standard curriculum. I also participated in four research projects in applied and pure mathematics, which helped develop my enthusiasm for mathematical research.
+  <div class="profile-content">
+    <h2>About Me</h2>
 
-## Research Interests
+```
+<p>
+  I am a recent graduate of Berry College, where I earned
+  a double major in Mathematics and Physics. My academic
+  interests lie in geometry and topology, and I am
+  particularly interested in exploring the connections
+  between these fields and other areas of mathematics.
+</p>
 
-My current mathematical interests include:
+<p>
+  During my undergraduate studies, I pursued a broad
+  mathematical education and participated in four research
+  projects in applied and pure mathematics.
+</p>
+```
 
-* Differential geometry
-* Algebraic and geometric topology
-* Abstract algebra
-* Mathematical analysis
-
-I am interested in pursuing graduate research in geometry and topology and exploring the deeper structures and connections within mathematics.
-
-## Research Experience
-
-### Research Project 1
-
-*Project title* · *Year*
-
-Brief description of the project, its mathematical motivation, and the contributions you made.
-
-### Research Project 2
-
-*Project title* · *Year*
-
-Brief description of the project, its mathematical motivation, and the contributions you made.
-
-### Research Project 3
-
-*Project title* · *Year*
-
-Brief description of the project, its mathematical motivation, and the contributions you made.
-
-### Research Project 4
-
-*Project title* · *Year*
-
-Brief description of the project, its mathematical motivation, and the contributions you made.
-
-## Education
-
-**Berry College**
-B.S. in Mathematics and B.S. in Physics
-*Graduation year*
-
-Relevant academic preparation:
-
-* Directed study in differential geometry
-* Independent study in algebra, analysis, topology, and number theory
-* Research experience in pure and applied mathematics
-
-## Curriculum Vitae
-
-You can find my current curriculum vitae [here](assets/cv.pdf).
+  </div>
+</div>
 
 ## Contact
 
