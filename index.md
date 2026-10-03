@@ -3,11 +3,6 @@ title: "Jadon Jones"
 description: "Personal academic website"
 theme: minima
 ---
----
-
-title: "Jadon Jones"
-description: "Personal academic website"
-----------------------------------------
 
 <div class="profile-layout">
   <div class="profile-sidebar">
