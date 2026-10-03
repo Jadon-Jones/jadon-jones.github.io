@@ -3,52 +3,37 @@
 
 @import "minima";
 
+/* Two-column profile layout */
 .profile-layout {
-  display: flex;
-  align-items: flex-start;
+  display: grid !important;
+  grid-template-columns: 220px minmax(0, 1fr);
   gap: 40px;
+  align-items: start;
+  width: 100%;
   margin-top: 30px;
 }
 
 .profile-sidebar {
-  flex: 0 0 220px;
+  width: 100%;
   text-align: center;
 }
 
 .profile-photo {
+  display: block;
   width: 180px;
   height: 180px;
   object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 15px;
-}
-
-.profile-sidebar h2 {
-  font-size: 22px;
-  margin-bottom: 8px;
-}
-
-.profile-sidebar p {
-  margin-bottom: 8px;
+  margin: 0 auto 15px;
 }
 
 .profile-content {
-  flex: 1;
   min-width: 0;
 }
 
+/* Responsive layout for mobile */
 @media screen and (max-width: 700px) {
   .profile-layout {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .profile-sidebar {
-    flex-basis: auto;
-    width: 100%;
-  }
-
-  .profile-content {
-    width: 100%;
+    grid-template-columns: 1fr;
   }
 }
