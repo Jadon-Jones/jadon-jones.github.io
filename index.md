@@ -27,9 +27,3 @@
 </p>
 
 </div> </div>
-
-## Contact
-
-For academic inquiries or collaboration, feel free to contact me at:
-
-**Email:** [your-email@example.com](mailto:your-email@example.com)
