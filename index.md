@@ -3,7 +3,7 @@ title: "Jadon Jones"
 description: "Personal academic website"
 theme: minima
 ---
-# Jadon Jones
+
 
 **Mathematics | Geometry and Topology**
 
