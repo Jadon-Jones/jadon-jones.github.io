@@ -9,9 +9,8 @@
 
     <h2>Jadon Jones</h2>
     <p>Mathematics</p>
-    <p>Geometry and Topology</p>
-    <p><a href="mailto:your-email@example.com">Email</a></p>
-    <p><a href="https://github.com/your-username">GitHub</a></p>
+    <p><a href="mailto:jjadonjones35791113@gmail.com">Email</a></p>
+    <p><a href="www.linkedin.com/in/jadon-jones-mathematics">LinkeIn</a></p>
     <p><a href="{{ '/assets/cv.pdf' | relative_url }}">Curriculum Vitae</a></p>
   </div>
 
@@ -19,18 +18,10 @@
     <h2>About Me</h2>
 
     <p>
-      I am a recent graduate of Berry College, where I earned a
-      double major in Mathematics and Physics. My academic interests
-      lie in geometry and topology, and I am particularly interested
-      in exploring the connections between these fields and other
-      areas of mathematics.
+      I am a prospective graduate student in Mathematics for Fall 2027. I am particularly interested in the fields of Topology, Graph Theory and Analysis. This past spring, I graduated from Berry College with degrees in Mathematics and Physics. I currently work as a <a href = "https://www.spelman.edu/staff/profiles/jadon-jones.html">Mathematics Instructional Support Specialist</a> at Spelman college, helping the math department by holding office hours, leading recitation sessions, and grading quizzes and exams. I also work part time as a <a href = "https://nationalmathstars.org/team/#jadon-jones">Math Mentor<\a> at National Math stars where I lead weekly mathematical discovery sessions with elementary aged students. I also have been involved with the summer mathematics program <a href = "https://www.mathily.org/">MathILy<>, this summer as a PRiME FACToR and currently through some administrative support.  
     </p>
+    
 
-    <p>
-      During my undergraduate studies, I pursued a broad mathematical
-      education and participated in four research projects in applied
-      and pure mathematics.
-    </p>
   </div>
 
 </div>
