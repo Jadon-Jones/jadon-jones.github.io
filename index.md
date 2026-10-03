@@ -1,9 +1,3 @@
----
-title: "Jadon Jones"
-description: "Personal academic website"
-theme: minima
----
-
 <div class="profile-layout">
   <div class="profile-sidebar">
     <img src="/assets/images/profile.jpg" alt="Portrait of Jadon Jones" class="profile-photo">
