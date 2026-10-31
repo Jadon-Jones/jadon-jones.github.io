@@ -1,6 +1,5 @@
 ---
-title: Research and Presentations
+title: Research
 ---
 ## Research
 
-## Presentations
